@@ -22,8 +22,8 @@ title: 困ったときのことを振り返るために
 description: >- # this means to ignore newlines until "baseurl:"
   困ったときに雑多な課題を書き出して、後から振り返るためのブログです。
   誰かの役に立てばいいと思い公開しますが、期待はしないでおきます。
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://yanasehiroki.github.io"
+baseurl: "/zakkichou"
 twitter_username: YanaseHiroki
 github_username:  YanaseHiroki
 
